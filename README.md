@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project analyzes flu shot administration in 2022, using patient encounter data to uncover key insights into vaccination trends, demographic disparities, and the impact of seasonal factors. The goal is to help healthcare providers improve vaccination outreach, enhance patient engagement, and make data-driven decisions to boost flu shot compliance.
+This project analyzes flu shot administration in 2022, using patient encounter data to uncover key insights into vaccination trends, and demographic disparities. The goal is to help healthcare providers improve vaccination outreach, enhance patient engagement, and make data-driven decisions to boost flu shot compliance.
 
 **Problem Definition**
 
